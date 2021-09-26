@@ -1,1 +1,2 @@
-# BelajarGo-Lang
+# Belajar GoLang
+Basic GoLang
